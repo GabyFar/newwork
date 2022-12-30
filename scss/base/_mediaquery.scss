@@ -1,0 +1,35 @@
+@media screen and (max-width:530px){
+    header{
+        flex-direction: column;
+    }
+    
+}
+
+@media screen and (max-width:530px){
+    header{
+        height: auto;
+    }
+    header nav ul{
+        flex-direction: column;}
+    }
+
+    @media screen and (max-width:530px){
+    .descripcion div{
+            padding: 4px;
+    }
+}
+
+@media screen and (max-width:530px){
+    .joysticks{
+        width: 88%;
+    margin: 50px auto;
+    margin-top: 0px;
+    }
+    
+}
+
+@media screen and (max-width:530px){
+    .controlandia img{
+        width:auto;
+    }
+}
