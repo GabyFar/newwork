@@ -647,13 +647,6 @@ border: 2px solid cornflowerblue;
     justify-content:space-around;
 }
 
-.footertaller h3{
-    text-align: center;
-    color: white;
-    margin: 30px;
-    padding: 50px;
-}
-
 .footer-nosotros{
     background-color:rgb(8, 8, 78);
     grid-area: footer;
